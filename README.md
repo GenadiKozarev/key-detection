@@ -1,6 +1,6 @@
 # key-detection
 
-### Fun little experiment where the user have to enter a "secret code" on their keyboard in order to see a surprise ;)
+### Fun little experiment where the user have to enter a "secret code" on their keyboard for a surprise ;)
 
 Live: 
 
